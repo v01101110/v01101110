@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v01110110
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning HTML, CSS...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate in the future.
 - 📫 How to reach me: @v9inicius, vinicius080503augusto@gmail.com
 
